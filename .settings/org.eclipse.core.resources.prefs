@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//WebContent/webapp/loginindex.html=UTF-8
+encoding//WebContent/webapp/myInfo/addressmanage.html=UTF-8
+encoding//WebContent/webapp/myInfo/mycard.html=UTF-8
+encoding//WebContent/webapp/myInfo/mycoupon.html=UTF-8
+encoding//WebContent/webapp/myInfo/mymessage.html=UTF-8
+encoding//WebContent/webapp/myInfo/myorder.html=UTF-8
+encoding//WebContent/webapp/myInfo/mywait.html=UTF-8
+encoding//src/com/imooc/po/BaseMessage.java=UTF-8
+encoding//src/com/imooc/test/WeixinTest.java=UTF-8
+encoding/<project>=GBK
